@@ -21,6 +21,11 @@
 
   Tools Used: Microsoft sql server, Excel for data preparation, Machine Learning for predictions, and Power BI for visualization.
 
+2] Power bi projects-
+    1 Madhav stores Data visualization
+
+   2 worldcup 2022 best 11 players analysis 
+
 
 
   
