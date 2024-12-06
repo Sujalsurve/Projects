@@ -1,5 +1,5 @@
 # Data-Science projects 
-Churn Data Analysis Project: Summary
+#Churn Data Analysis Project: Summary
 Objective: Analyze customer churn data to predict and reduce churn using SQL, Excel, Machine Learning, and Power BI.
 
 1. Data Extraction (SQL):
