@@ -1,1 +1,21 @@
 # Data-Science projects 
+Churn Data Analysis Project: Summary
+Objective: Analyze customer churn data to predict and reduce churn using SQL, Excel, Machine Learning, and Power BI.
+
+1. Data Extraction (SQL):
+Extract churn-related data (e.g., customer demographics, usage, support interactions) from a relational database using SQL queries.
+
+3. Data Cleaning & Preparation (Excel):
+Clean and transform data by handling missing values, encoding categorical variables, and creating new features in Excel. Perform basic statistical analysis to understand the data.
+
+5. Predictive Modeling (Machine Learning):
+Use machine learning algorithm ( Random Forest) to predict future churners . Evaluate model perfomance using confusion matrix,feature selection.
+6. Data Visualization (Power BI):
+Import data into Power BI and create interactive dashboards to visualize churn trends, customer segments, and key factors contributing to churn. Display predicted churn likelihood and allow dynamic filtering of data.
+7. Insights & Recommendations:
+Identify at-risk customers and suggest targeted retention strategies. Highlight factors that contribute most to churn and offer actionable recommendations for improvement.
+Outcome: A comprehensive churn analysis that combines data extraction, predictive modeling, and visualization to help improve customer retention.
+
+Tools Used: Microsoft sql server, Excel for data preparation, Machine Learning for predictions, and Power BI for visualization.
+   
+  
