@@ -20,5 +20,9 @@
   Outcome: A comprehensive churn analysis that combines data extraction, predictive modeling, and visualization to help improve customer retention.
 
   Tools Used: Microsoft sql server, Excel for data preparation, Machine Learning for predictions, and Power BI for visualization.
+
+
+
+  
    
   
