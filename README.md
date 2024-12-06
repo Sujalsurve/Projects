@@ -2,7 +2,7 @@
 1]Churn Data Analysis Project: Summary
   Objective: Analyze customer churn data to predict and reduce churn using SQL, Excel, Machine Learning, and Power BI.
 
-   1. Data Extraction (SQL):
+   1. ETL-extraction,transformation,loading data (SQL):
   Extract churn-related data (e.g., customer demographics, usage, support interactions) from a relational database using SQL queries.
 
    3. Data Cleaning & Preparation (Excel):
