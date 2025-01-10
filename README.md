@@ -31,6 +31,14 @@
 3] Zomato clone website -
    made a zomato clone website using html and css create the homepage.
 
+4] Uber ETL pipeline using Mage and GCP cloud: Designed and implemented an efficient Uber ETL pipeline utilizing 
+   Mage for data orchestration and GCP (Google Cloud Platform) services for scalability and reliability. Leveraged Mage's 
+   intuitive interface to build, monitor, and optimize data workflows while integrating GCP components such as Big Query, 
+   Cloud Storage, and Pub/Sub for seamless data ingestion, processing, and storage.
+
+5] Amazon webscrapping project : used beautiful soap library to extract the data from the amazon e-commerce website and then
+   performed ETL and EDA process using python libraries.
+
 
 
   
